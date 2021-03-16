@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="songs">
+        <item />
+        <item>Highway to Hell</item>
+        <item>Through the Fire and Flames</item>
+        <item>Back in Black</item>
+        <item>Thunderstruck</item>
+        <item>Footloose</item></string-array>
+</resources>
